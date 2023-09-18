@@ -1,4 +1,4 @@
-## Opinion -  The wizards of AI can’t give it a brain, or heart, or consciousness ## 
+# Opinion -  "The wizards of AI can’t give it a brain, or heart, or consciousness" # 
 
 **Article**: https://www.washingtonpost.com/opinions/2023/04/24/artificial-intelligence-consciousness-thinking/ 
 
