@@ -4,3 +4,5 @@
 
 **Opinion**: I find this article interesting because it describes the several 
 limitations of current AI Chat models, bringing attention to the fundamental challenges the software faces in truly incorporating human-like understanding and consciousness. Also, I find it particularly important becuase it serves as a reminder of the significance of maintaining a realistic perspective on AI's capabilities, particularly for those without knowledge of NLP and AI who might have fears of AI becoming uncontrollable.
+
+***Patrick Zhao Comments***: Unlike humans, AI doesn't have feelings, consciousness, or desires. It operates based on its programming and the data it's given. AI doesn't have intentions or emotions. I would say I am not worried at the moment.
